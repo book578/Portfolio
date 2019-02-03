@@ -6,3 +6,5 @@ project#2.sh is a shell script written to process through over 100,000 files on 
 
 
 Added proj4.py to repo. Proj4.py has same functionality as project#2.sh except that proj4.py plots the graphs to a single pdf.
+
+Safed.sh creates a directory in /home directory called Trash. Safely deletes a file by running command to move a file to Trash directory, and if any file is older than 1 day it will permanently delete such files.
